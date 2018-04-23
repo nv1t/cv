@@ -23,6 +23,11 @@
     </div><!--//item-->
     {% endfor %}
   </div>
+  {% if site.data.skills.tools %}
+  <div class="toolset">
+    <p>{{ site.data.skills.tools }}</p>
+  </div>
+  {% endif %}
 
 </section><!--//skills-section-->
 {% endif %}
