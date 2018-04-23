@@ -3,7 +3,7 @@ projects:
   - project:
     title: iliketrains
     link: "https://github.com/makujaho/trainspotter"
-    tagline: "Accessing undocumented APIs from big companies is fun. Especially if you get loads of data to store and analyze from them. "
+    tagline: "Accessing undocumented APIs from big companies is fun. Especially if you get loads of data to store and analyze from them. (See publication for talk on this project)"
   - project:
     title: FreeElmo
     link: "https://blog.nv1t.me/freeing-elmo/"

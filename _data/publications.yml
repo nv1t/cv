@@ -3,16 +3,20 @@ publications:
   - paper:
     title: "IoT Pentest - Der Weg von der Firmware zur Shell"
     authors: "Jan Hoersch"
-    conference: "<a href=''>link</a>"
+    conference: "<a href='https://www.securai.de/veroeffentlichungen/blog/iot-pentest-der-weg-von-der-firmware-zur-shell/'>Securai Blog</a>"
   - paper:
     title: "IoT Security Nightmares - 20 minutes, 10 devices."
-    authors: "Jan hoersch"
+    authors: "<a href='https://www.youtube.com/watch?v=Fy0Wcp_hNFg'>Video</a>"
     conference: "Kaspersky Security Analyst Summit, 2017"
   - paper:
+    title: "I like trains"
+    authors: "<a href='https://media.ccc.de/v/MRMCD15-6986-i_like_trains'>Video</a>"
+    conference: "MRMCD 2015"
+  - paper:
     title: "Men who stare at bits (Part 2)"
-    authors: "Jan Hoersch"
+    authors: "<a href='https://media.ccc.de/v/29c3-5285-de-en-men_who_stare_at_bits_h264'>Video</a>"
     conference: "29c3"
   - paper:
     title: "Men who stare at bits"
-    authors: "Jan Hoersch"
+    authors: "<a href='https://media.ccc.de/v/saal_mp7_og_-_2012-05-19_21_15_-_men_who_stare_at_bits_-_nuit_-_murx_-_64'>Video</a>"
     conference: "Sigint12"
