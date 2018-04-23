@@ -21,7 +21,9 @@
           {% if site.email %}
            <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
            {% endif %}
-
+           {% if site.pgp %}
+           <li class="pgp"><i class="fa fa-lock"></i>{{site.php}}</a></li>
+           {% endif %}
            {% if site.phone %}
            <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
            {% endif %}
