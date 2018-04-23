@@ -1,12 +1,18 @@
-- skill:
-  name: Burp
-- skill:
-  name: Javascript & jQuery
-- skill:
-  name: Angular
-- skill:
-  name: HTML5 & CSS
-- skill:
-  name: Ruby on Rails
-- skill:
-  name: Sketch & Photoshop
+- skills:
+  - skill:
+    name: Web Applications
+    level: 90
+  - skill:
+    name: Rich Clients
+    level: 80
+  - skill:
+    name: Android Applications
+    level: 70
+  - skill:
+    name: iOS
+    level: 60
+  - skill:
+    name: Reverse Engineering
+    level: 70
+
+- tools: "burp, Canape, metasploit, IDA Pro, Hopper, AppScan, Immunity, Ollydbg"

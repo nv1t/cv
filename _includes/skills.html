@@ -3,9 +3,14 @@
 
   <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
 
-  <div class="skillset">
+  {% if site.data.skills.intro %}
+  <div class="intro">
+    <p>{{ site.data.skills.intro }}</p>
+  </div>
+  {% endif %}
 
-    {% for skill in site.data.skills %}
+  <div class="skillset">
+    {% for skill in site.data.skills.skills %}
     <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
@@ -17,7 +22,6 @@
 
     </div><!--//item-->
     {% endfor %}
-
   </div>
 
 </section><!--//skills-section-->
