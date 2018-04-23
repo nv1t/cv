@@ -1,6 +1,7 @@
 intro: ""
 publications:
   - paper:
+    icon: "glyphicon-console"
     title: "Article: IoT Pentest - Der Weg von der Firmware zur Shell"
     authors: "Jan Hoersch"
     conference: "<a href='https://www.securai.de/veroeffentlichungen/blog/iot-pentest-der-weg-von-der-firmware-zur-shell/'>Securai Blog</a>"
