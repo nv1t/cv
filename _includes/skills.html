@@ -11,11 +11,8 @@
 
   {% if site.data.skills.tools %}
   <div class="toolset">
-    <h3>Toolset</h3>
-    <p>I use a lot of different tools on a daily basis. I simply can't list them all, but some of these are: 
-{% for tool in site.data.skills.tools %}
-- {{ tool.tool }}
-{% endfor %}</p>
+    <p>I use a lot of different tools on a daily basis. I simply can't list them all, but some of these are: <br />
+{{ site.data.skills.tools | join:" - " }}</p>
   </div>
   {% endif %}
 

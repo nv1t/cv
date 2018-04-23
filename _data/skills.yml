@@ -19,10 +19,4 @@ skills:
     name: Forensic
     level: 40%
 
-tools:
-  - tool: Burp
-  - tool: Canape
-  - tool: IDA Pro
-  - tool: AppScan
-  - tool: Immunity
-  - tool: Wireshark
+tools: [Burp, Canape, IDA Pro, AppScan, Immunity, Wireshark]
