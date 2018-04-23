@@ -5,6 +5,14 @@ publications:
     authors: "Jan Hoersch"
     conference: "<a href='https://www.securai.de/veroeffentlichungen/blog/iot-pentest-der-weg-von-der-firmware-zur-shell/'>Securai Blog</a>"
   - paper:
+    title: "Binary Patching von Java fuer Rich-Client Penetrationtests"
+    authors: "Jan Hoersch"
+    conference: "<a href='https://www.securai.de/veroeffentlichungen/blog/binary-patching-java/'>Securai Blog</a>"
+  - paper:
+    title: "SQLi after order by in less than 22 chars"
+    authors: "Jan Hoersch"
+    conference: "<a href='https://blog.nv1t.me/sql-injection-after-order-by/'>blog.nv1t.me</a>"
+  - paper:
     title: "IoT Security Nightmares - 20 minutes, 10 devices."
     authors: "<a href='https://www.youtube.com/watch?v=Fy0Wcp_hNFg'>Video</a>"
     conference: "Kaspersky Security Analyst Summit, 2017"
