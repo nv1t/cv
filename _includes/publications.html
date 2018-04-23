@@ -14,7 +14,9 @@
       <div class="publication-title">
 {% if publication.icon %} <span class="glyphicon {{ publication.icon }}"></span>
 {% endif %}
-{{ publication.title }}</div>
+{% if publication.link %} <a href="{{publication.link}}">{{ publication.title }}</a>
+{% else %} {{ publication.title }}
+{% endif %}</div>
       <div class="publication-authors">{{ publication.authors }}</div>
       <div class="publication-conference">{{ publication.conference }}</div>
     </div><!--//item-->
