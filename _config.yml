@@ -10,14 +10,14 @@ about: False # set to False or comment line if you want to remove the "How to us
 #style: styles-3
 #style: styles-4
 #style: styles-5
-#style: styles-6
+style: styles-6
 
 
 #Profile information
 name: Jan Hoersch
 tagline: IT Security Consultant
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "I'm an IT Security Consultant &amp; Penetration Tester with 4 years of professional experience. I'm interested in all parts of IT Security, but my major focus is on finding and exploiting various vulnerabilities. Beforehand, i worked in IT Security for a hosting company."
+summary: "I'm an IT Security Consultant &amp; Penetration Tester with 4 years of professional experience. With at least basic knowledge in a wide variety of IT Security topics, my major focus is on penetration testing and reverse engineering. I'm highly motivated to learn tricks, widen my knowledge and get to know another work environment."
 
 #sidebar links
 email: jan@nv1t.me
