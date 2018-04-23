@@ -1,16 +1,25 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: OSC3
+  university: Offensive Security
+  time: 2017
+  details: ""
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: MASPT
+  university: elearnsecurity
+  time: 2015
+  details: ""
+- education:
+  degree: OSCP
+  university: Offensive Security
+  time: 2014
+  details: ""
+- education:
+  degree: IT Specialist for System Integration
+  university: 
+  time: 2011 - 2013
+  details: ""
+- education:
+  degree: BSc in Mathematics (unfinished)
+  university: Bayreuth University
+  time: 2009 - 2011
+  details: ""

@@ -1,15 +1,18 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: "IoT Pentest - Der Weg von der Firmware zur Shell"
+    authors: "Jan Hoersch"
+    conference: "<a href=''>link</a>"
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    title: "IoT Security Nightmares - 20 minutes, 10 devices."
+    authors: "Jan hoersch"
+    conference: "Kaspersky Security Analyst Summit, 2017"
   - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: "Men who stare at bits (Part 2)"
+    authors: "Jan Hoersch"
+    conference: "29c3"
+  - paper:
+    title: "Men who stare at bits"
+    authors: "Jan Hoersch"
+    conference: "Sigint12"
