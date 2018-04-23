@@ -17,10 +17,7 @@ about: False # set to False or comment line if you want to remove the "How to us
 name: Jan Hoersch
 tagline: IT Security Consultant
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: "I'm an IT Security Consultant &amp; Penetration Tester with 4 years of professional experience. I'm interested in all parts of IT Security, but my major focus is on finding and exploiting various vulnerabilities. Beforehand, i worked in IT Security for a hosting company."
 
 #sidebar links
 email: jan@nv1t.me
