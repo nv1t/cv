@@ -1,6 +1,12 @@
 - experience:
+  role: Lead Security Consultant
+  time: 2018 - Present
+  company: Context Information Security Ltd.
+  details: "Performing penetration tests and reverse engineering tasks on mobile application, web applications and rich clients in various programming languages."
+
+- experience:
   role: IT Security Consultant
-  time: 2014 - Present
+  time: 2014 - 2018
   company: Securai GmbH
   details: "Performing penetration tests and reverse engineering tasks on mobile application, web applications and rich clients in various programming languages."
 
