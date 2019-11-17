@@ -6,9 +6,9 @@ projects:
     tagline: "Accessing undocumented APIs from big companies is fun. Especially if you get loads of data to store and analyze from them. (See publication for talk on this project)"
   - project:
     title: FreeElmo
-    link: "https://blog.nv1t.me/freeing-elmo/"
+    link: "https://nv1t.github.io/blog/freeing-elmo"
     tagline: "Reverse Engineering an Elmo Document Camera and writing MultiOS Client."
   - project:
     title: Douding Document Sharing
-    link: "https://blog.nv1t.me/douding-document-sharing-network/"
+    link: "https://nv1t.github.io/blog/douding-document-sharing-network"
     tagline: "Reverse Engineering the Douding Document Sharing Network"
