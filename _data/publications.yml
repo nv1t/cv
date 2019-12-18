@@ -15,7 +15,7 @@ publications:
   - paper:
     icon: "glyphicon-file"
     title: "SQLi after order by in less than 22 chars"
-    link: "https://blog.nv1t.me/sql-injection-after-order-by/"
+    link: "https://nv1t.github.io/blog/sql-injection-after-order-by"
     authors: "Jan Hoersch"
     conference: "blog.nv1t.me"
   - paper:

@@ -8,10 +8,10 @@ skills:
     level: 80%
   - skill:
     name: Android Applications
-    level: 70%
+    level: 80%
   - skill:
     name: iOS
-    level: 60%
+    level: 70%
   - skill:
     name: Reverse Engineering
     level: 70%
