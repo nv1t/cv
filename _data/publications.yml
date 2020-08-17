@@ -2,6 +2,12 @@ intro: ""
 publications:
   - paper:
     icon: "glyphicon-file"
+    title: "I hate you, WD"
+    link: "https://nv1t.github.io/blog/i-hate-you-wd"
+    authors: "Jan Hoersch"
+    conference: "blog.nv1t.me"
+  - paper:
+    icon: "glyphicon-file"
     title: "IoT Pentest - Der Weg von der Firmware zur Shell"
     link: "https://www.securai.de/veroeffentlichungen/blog/iot-pentest-der-weg-von-der-firmware-zur-shell/"
     authors: "Jan Hoersch"
