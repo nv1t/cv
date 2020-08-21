@@ -1,6 +1,10 @@
 intro: ""
 projects:
   - project:
+    title: "Standing Desk Interceptor"
+    link: "https://github.com/nv1t/standing-desk-interceptor"
+    tagline: "Reverse Engineering my standing desk to create more functionality" 
+  - project:
     title: iliketrains
     link: "https://github.com/makujaho/trainspotter"
     tagline: "Accessing undocumented APIs from big companies is fun. Especially if you get loads of data to store and analyze from them. (See publication for talk on this project)"
